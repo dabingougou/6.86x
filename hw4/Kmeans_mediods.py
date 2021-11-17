@@ -33,6 +33,6 @@ print(l1_norm.argmax(axis=1))
 
 groupings = l1_norm.argmax(axis=1)
 
-for j in range(K):
-    for i in range(N):
-        if groupings[i] = j
+# for j in range(K):
+#     for i in range(N):
+#        if groupings[i] = j
