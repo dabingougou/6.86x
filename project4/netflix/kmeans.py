@@ -3,7 +3,7 @@ from typing import Tuple
 import numpy as np
 from common import GaussianMixture
 
-# Adding one more line to test git and codespace (Nov 20)
+# Adding yet again
 def estep(X: np.ndarray, mixture: GaussianMixture) -> np.ndarray:
     """E-step: Assigns each datapoint to the gaussian component with the
     closest mean
